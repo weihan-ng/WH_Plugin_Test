@@ -1,0 +1,6 @@
+framework module QmsPluginFramework {
+  umbrella header "QmsPluginFramework.h"
+  export *
+
+  module * { export * }
+}
