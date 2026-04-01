@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "QmsDashboard",
+    name: "WH_Plugin_Test",
     platforms: [.iOS(.v15)],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.

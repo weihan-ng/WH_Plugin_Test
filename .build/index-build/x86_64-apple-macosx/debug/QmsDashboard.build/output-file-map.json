@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/master.swiftdeps"
+  },
+  "/Users/weihan/Projects/WH_Plugin_Test/Sources/QmsDashboard/PresentationDelegate.swift": {
+    "dependencies": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/PresentationDelegate.d",
+    "object": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/PresentationDelegate.swift.o",
+    "swiftmodule": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/PresentationDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/PresentationDelegate.swiftdeps",
+    "diagnostics": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/PresentationDelegate.dia"
+  },
+  "/Users/weihan/Projects/WH_Plugin_Test/Sources/QmsDashboard/QmsDashboard.swift": {
+    "dependencies": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/QmsDashboard.d",
+    "object": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/QmsDashboard.swift.o",
+    "swiftmodule": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/QmsDashboard~partial.swiftmodule",
+    "swift-dependencies": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/QmsDashboard.swiftdeps",
+    "diagnostics": "/Users/weihan/Projects/WH_Plugin_Test/.build/index-build/x86_64-apple-macosx/debug/QmsDashboard.build/QmsDashboard.dia"
+  }
+}
