@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		B6q9lNNFmSLZ1SghqT7Zf4f9Ssg=
+		KY/x3Y72OKB0JSw9WfCKN4pWJMM=
 		</data>
 		<key>Headers/QmsPlugin.h</key>
 		<data>
-		46196FWEMwEuy8Dd/6jLyvdFEok=
+		EmIKzTI3ge5SkKVa02tbMgMR/48=
 		</data>
 		<key>Headers/QmsPluginFramework.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZBrvU0FBSkW2v0sK0ahbaZxRWvk=
+		jz6dXpYBkDi/59wvqpKtvkIYUqk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -28,6 +28,26 @@
 		<data>
 		vnwUOAcKtjfhFxaRXk5QkDcm3Mg=
 		</data>
+		<key>Montserrat-BoldItalic.ttf</key>
+		<data>
+		zTeJrlXMcCd2r90v0aga4Wxp+/Q=
+		</data>
+		<key>Montserrat-ExtraBold.ttf</key>
+		<data>
+		hPFnduIJnTtX2O0jm3bm+jKEsuc=
+		</data>
+		<key>Montserrat-ExtraLight.ttf</key>
+		<data>
+		zHokqGLxd5vbv3immEu5rpMkoSg=
+		</data>
+		<key>Montserrat-Italic.ttf</key>
+		<data>
+		rvTmoa8YSWRM4ek0tKuQWekW2Ic=
+		</data>
+		<key>Montserrat-Light.ttf</key>
+		<data>
+		M5fNmOUTZcielc0RMOAUG9pQUd4=
+		</data>
 		<key>Montserrat-Medium.ttf</key>
 		<data>
 		d/NVNBXYWMZTuupFqsqyAZZ3YzQ=
@@ -35,6 +55,14 @@
 		<key>Montserrat-Regular.ttf</key>
 		<data>
 		7BPvHyyZ+HgNby6z+fJ++J8wFhs=
+		</data>
+		<key>Montserrat-SemiBold.ttf</key>
+		<data>
+		efdGFtaLh9bPiXmP5yJZA2MmVno=
+		</data>
+		<key>Montserrat-Thin.ttf</key>
+		<data>
+		VQ5uHZkjael+nwCqca5IKmpjJtc=
 		</data>
 		<key>bm.json</key>
 		<data>
@@ -46,7 +74,7 @@
 		</data>
 		<key>en.json</key>
 		<data>
-		jJePlr0jVQ0oMyMuz9T0D2I97JU=
+		NbOH+TGsB/aOquBKKHo+ndlOhTA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DTkh7u3Ijr4e4TZ7OhtpSUvM+DkVsLTFV5oZ4DysTo=
+			KJmL41NS2fAMkvUK5WRxi3U/4jX4HHLNXLn52cOjMsY=
 			</data>
 		</dict>
 		<key>Headers/QmsPlugin.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uuQ2Omt7lnrShVFriPpMiXZhx8kx6Km97GxC3m1ro+A=
+			bOXa0bssVHONQgqBgiWdVMKvDtr3KNOONDsMPZxXAn8=
 			</data>
 		</dict>
 		<key>Headers/QmsPluginFramework.h</key>
@@ -86,6 +114,41 @@
 			f6k9fapcL4gaZycinCEXgt5rdgCPvWNGs9dmTo/IP0M=
 			</data>
 		</dict>
+		<key>Montserrat-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ABpZsPLFQQgAM7g8pt+szgMJXZnKo1lINfUbfG2c51g=
+			</data>
+		</dict>
+		<key>Montserrat-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XPCiMTPMzjX54RW427+QQ0IBgnvCRl0S+dkbvwLPlGY=
+			</data>
+		</dict>
+		<key>Montserrat-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GsDgBpJUjjFCENEGGd5lYiVFf9RcebVtJCzfc5z3J48=
+			</data>
+		</dict>
+		<key>Montserrat-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fofA+Ws5+7kZswrviZEyPQsldknzkeZFa88DwjFEj0k=
+			</data>
+		</dict>
+		<key>Montserrat-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lj13LJxEs8QBslfWk60mAG/HvVQhWVfVE1a0DjY1P4Q=
+			</data>
+		</dict>
 		<key>Montserrat-Medium.ttf</key>
 		<dict>
 			<key>hash2</key>
@@ -98,6 +161,20 @@
 			<key>hash2</key>
 			<data>
 			75z5nwF1vvUwuIk0vZBPz1b3c87G/U37jMr3ziu9OV4=
+			</data>
+		</dict>
+		<key>Montserrat-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nE2zgUh1QQ59ZP3I5pZ2w7hJaLsVvzrOizlExZ+8VrY=
+			</data>
+		</dict>
+		<key>Montserrat-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qMAnFkOz0iN+EeE+5ZACTUmzW3dgFJWOYP5hV8P1I/o=
 			</data>
 		</dict>
 		<key>bm.json</key>
@@ -118,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z4eYf4Co8BLRvV0MN9d9VLOtDoCQTpIqzplRDCXhQPg=
+			E3hW53FbghvQS9Spq/D3Lv2MRrdLndOPSFLGzYIGkWs=
 			</data>
 		</dict>
 	</dict>
